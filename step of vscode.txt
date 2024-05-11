@@ -1,0 +1,11 @@
+// --- steps to create vs code ---
+//1 saste vs code ka ui bnana
+//2 huume pata hona cahiye file kese create hoti hai (fs)
+//3 fs ko require krna, form ka route bnana
+//4 file create krna hai
+//5 file create ke bad kaha save krna h, us folder ko bnana , or uska path dena
+// 6 jo mene files create ki hai unhe mujhe read krna hai, mujhe pata hona cahiye ki kaha(kis route pe) or kese read krna hai
+//7 files ko read krne ke bad hume file ko show krwana hai , as a list
+// 8 file ke data ko read krna hai, us se phle perticular file ko open krne ke liye uska dynamic route bnana
+// 9 is route ko banane ka reason hai ki us dynamic name se us file ke data ko read kr skte or show krwa sakee
+// 10 filedata ko read krke textarea me show krwana
